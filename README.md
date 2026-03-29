@@ -25,4 +25,8 @@ This project detects fake social media accounts using Machine Learning technique
 - Dataset used for training and testing fake accounts
 
 ## 📷 Output
-(Add screenshots here later)
+
+![App Screenshot](screenshots/screenshot1.png)
+![App Screenshot](screenshots/screenshot2.png)
+![App Screenshot](screenshots/screenshot3.png)
+![App Screenshot](screenshots/screenshot4.png)
