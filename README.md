@@ -1,11 +1,11 @@
 # Fake Social Media Account Detection
 
-🚀 Machine Learning-based system to detect fake social media accounts using profile and behavioral features.
+🚀 Machine Learning based system to detect fake social media (Instagram) accounts using profile features.
 
 
 ## 📌 Project Description
 This project identifies whether a social media account is **real or fake** using machine learning algorithms.  
-It analyzes various features such as followers, engagement, and activity patterns to make predictions.
+It analyzes various features such as number of followers, following, and activity patterns to make predictions.
 
 
 ## ⚙️ How It Works
@@ -28,12 +28,14 @@ It analyzes various features such as followers, engagement, and activity pattern
 - Pandas, NumPy  
 - Scikit-learn  
 - XGBoost  
-- Streamlit  
+- Streamlit 
+- Random Forest Model
+- XGBoost Model 
 
 
 ## 📊 Dataset
-- `fusers.csv` → Fake users dataset  
-- `users.csv` → Real users dataset  
+- fusers.csv → Fake users dataset  
+- users.csv → Real users dataset  
 
 
 ## ▶️ How to Run
@@ -45,7 +47,7 @@ It analyzes various features such as followers, engagement, and activity pattern
    streamlit run app1.py
 
 ## 📷 Output
- 
+
 ![App Screenshot](screenshots/screenshot1.png) 
 ![App Screenshot](screenshots/screenshot2.png) 
 ![App Screenshot](screenshots/screenshot3.png) 
